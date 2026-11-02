@@ -15,7 +15,8 @@ The project compares five machine learning models, explains them with SHAP, LIME
 | File | What it is |
 |---|---|
 | `*.ipynb` | The notebook: data cleaning, EDA, preprocessing, training, tuning, evaluation and explainability (with all outputs) |
-| `app.py` | The Streamlit web app |
+| `app.py` | The Streamlit web app (3 tabs: Predict and explain, Compare cars, Model insight) |
+| `global_insight.json` | Global feature importance and PDP data for the Model insight tab (from 2,000 test cars) |
 | `model.pkl` | The best model (scikit-learn pipeline: preprocessing + XGBoost) |
 | `app_options.json` | The dropdown lists for the app (brands, models and other categories) |
 | `requirements.txt` | The Python libraries and versions for the app |
