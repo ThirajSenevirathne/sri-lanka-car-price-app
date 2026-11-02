@@ -817,5 +817,2383 @@
  "seller_type": [
   "Private",
   "Business"
- ]
+ ],
+ "age_range_by_model": {
+  "Alfa Romeo|Other Model": [
+   7,
+   29
+  ],
+  "Aston Martin|Other Model": [
+   7,
+   7
+  ],
+  "Audi|A1": [
+   4,
+   7
+  ],
+  "Audi|A3": [
+   4,
+   7
+  ],
+  "Audi|A4": [
+   4,
+   21
+  ],
+  "Audi|A5": [
+   3,
+   8
+  ],
+  "Audi|A6": [
+   5,
+   23
+  ],
+  "Audi|A7": [
+   8,
+   8
+  ],
+  "Audi|A8": [
+   8,
+   9
+  ],
+  "Audi|Q2": [
+   3,
+   6
+  ],
+  "Audi|Q3": [
+   3,
+   7
+  ],
+  "Audi|Q5": [
+   8,
+   12
+  ],
+  "Audi|Q7": [
+   4,
+   12
+  ],
+  "Audi|TT": [
+   6,
+   20
+  ],
+  "Audi|TTS": [
+   7,
+   7
+  ],
+  "Austin|Cambridge": [
+   27,
+   27
+  ],
+  "Austin|Mini": [
+   24,
+   26
+  ],
+  "Austin|Mini Cooper": [
+   5,
+   31
+  ],
+  "Austin|Standard": [
+   18,
+   26
+  ],
+  "BMW|116i": [
+   10,
+   14
+  ],
+  "BMW|118i": [
+   5,
+   5
+  ],
+  "BMW|218i": [
+   5,
+   6
+  ],
+  "BMW|225XE": [
+   5,
+   6
+  ],
+  "BMW|316i": [
+   7,
+   9
+  ],
+  "BMW|318i": [
+   4,
+   24
+  ],
+  "BMW|318is": [
+   7,
+   7
+  ],
+  "BMW|320d": [
+   10,
+   23
+  ],
+  "BMW|320i": [
+   11,
+   20
+  ],
+  "BMW|330e": [
+   6,
+   7
+  ],
+  "BMW|330i": [
+   6,
+   6
+  ],
+  "BMW|420d": [
+   9,
+   9
+  ],
+  "BMW|430i": [
+   4,
+   7
+  ],
+  "BMW|520d": [
+   7,
+   11
+  ],
+  "BMW|520i": [
+   11,
+   31
+  ],
+  "BMW|523i": [
+   11,
+   13
+  ],
+  "BMW|525i": [
+   16,
+   29
+  ],
+  "BMW|528i": [
+   12,
+   12
+  ],
+  "BMW|530d": [
+   13,
+   27
+  ],
+  "BMW|530e": [
+   4,
+   6
+  ],
+  "BMW|530i": [
+   6,
+   16
+  ],
+  "BMW|535i": [
+   10,
+   10
+  ],
+  "BMW|730Ld": [
+   6,
+   12
+  ],
+  "BMW|730d": [
+   8,
+   14
+  ],
+  "BMW|730iL": [
+   11,
+   11
+  ],
+  "BMW|735Li": [
+   20,
+   21
+  ],
+  "BMW|735i": [
+   20,
+   20
+  ],
+  "BMW|740Le": [
+   4,
+   7
+  ],
+  "BMW|740Li": [
+   6,
+   12
+  ],
+  "BMW|740e": [
+   4,
+   6
+  ],
+  "BMW|ActiveHybrid 3": [
+   10,
+   10
+  ],
+  "BMW|ActiveHybrid 5": [
+   7,
+   10
+  ],
+  "BMW|ActiveHybrid 7": [
+   9,
+   9
+  ],
+  "BMW|E46": [
+   22,
+   22
+  ],
+  "BMW|E60": [
+   17,
+   17
+  ],
+  "BMW|M": [
+   3,
+   4
+  ],
+  "BMW|M2": [
+   8,
+   8
+  ],
+  "BMW|M235i": [
+   8,
+   9
+  ],
+  "BMW|M3": [
+   11,
+   29
+  ],
+  "BMW|Mini Cooper": [
+   5,
+   14
+  ],
+  "BMW|Other Model": [
+   3,
+   26
+  ],
+  "BMW|X1": [
+   3,
+   12
+  ],
+  "BMW|X2": [
+   4,
+   5
+  ],
+  "BMW|X3": [
+   7,
+   11
+  ],
+  "BMW|X5": [
+   5,
+   11
+  ],
+  "BMW|X5 M": [
+   5,
+   11
+  ],
+  "BMW|X5 eDrive": [
+   5,
+   7
+  ],
+  "BMW|Z4": [
+   8,
+   10
+  ],
+  "BMW|i3": [
+   5,
+   5
+  ],
+  "BMW|i8": [
+   3,
+   7
+  ],
+  "Chery|Other Model": [
+   8,
+   12
+  ],
+  "Chery|QQ": [
+   10,
+   17
+  ],
+  "Chery|QQ3": [
+   2,
+   16
+  ],
+  "Chery|Tiggo": [
+   9,
+   9
+  ],
+  "Chevrolet|Aveo": [
+   11,
+   16
+  ],
+  "Chevrolet|Beat": [
+   11,
+   12
+  ],
+  "Chevrolet|Corvette": [
+   12,
+   12
+  ],
+  "Chevrolet|Cruze": [
+   16,
+   20
+  ],
+  "Chevrolet|Other Model": [
+   12,
+   31
+  ],
+  "Chevrolet|Spark": [
+   12,
+   12
+  ],
+  "Chrysler|300": [
+   9,
+   17
+  ],
+  "Chrysler|Other Model": [
+   15,
+   17
+  ],
+  "Citroen|Other Model": [
+   22,
+   23
+  ],
+  "DFSK|Glory": [
+   0,
+   7
+  ],
+  "DFSK|Other Model": [
+   0,
+   3
+  ],
+  "DFSK|V27": [
+   6,
+   8
+  ],
+  "Daewoo|Espero": [
+   26,
+   28
+  ],
+  "Daewoo|Lanos": [
+   18,
+   29
+  ],
+  "Daewoo|Leganza": [
+   20,
+   23
+  ],
+  "Daewoo|Magnus": [
+   22,
+   22
+  ],
+  "Daewoo|Nubira": [
+   20,
+   23
+  ],
+  "Daewoo|Other Model": [
+   22,
+   28
+  ],
+  "Daewoo|Tosca": [
+   28,
+   28
+  ],
+  "Daihatsu|Atrai Wagon": [
+   5,
+   7
+  ],
+  "Daihatsu|Boon": [
+   4,
+   6
+  ],
+  "Daihatsu|Cast Activa": [
+   8,
+   8
+  ],
+  "Daihatsu|Charade": [
+   17,
+   33
+  ],
+  "Daihatsu|Copen": [
+   6,
+   8
+  ],
+  "Daihatsu|Cuore": [
+   24,
+   30
+  ],
+  "Daihatsu|Esse": [
+   13,
+   16
+  ],
+  "Daihatsu|Hijet": [
+   6,
+   24
+  ],
+  "Daihatsu|Mira": [
+   4,
+   26
+  ],
+  "Daihatsu|Move": [
+   5,
+   7
+  ],
+  "Daihatsu|Other Model": [
+   19,
+   31
+  ],
+  "Daihatsu|Redigo": [
+   6,
+   6
+  ],
+  "Daihatsu|Rocky": [
+   3,
+   3
+  ],
+  "Daihatsu|Tanto": [
+   6,
+   8
+  ],
+  "Daihatsu|Terios": [
+   8,
+   25
+  ],
+  "Datsun|Go": [
+   6,
+   7
+  ],
+  "Datsun|Go Plus": [
+   6,
+   6
+  ],
+  "Datsun|Redi Go": [
+   5,
+   7
+  ],
+  "Fiat|1100": [
+   12,
+   27
+  ],
+  "Fiat|500": [
+   28,
+   28
+  ],
+  "Fiat|Bravo": [
+   28,
+   28
+  ],
+  "Fiat|Linea": [
+   9,
+   12
+  ],
+  "Fiat|Punto": [
+   14,
+   16
+  ],
+  "Fiat|Uno": [
+   6,
+   33
+  ],
+  "Ford|Ecosport": [
+   5,
+   10
+  ],
+  "Ford|Everest": [
+   11,
+   12
+  ],
+  "Ford|Festiva": [
+   25,
+   31
+  ],
+  "Ford|Fiesta": [
+   7,
+   12
+  ],
+  "Ford|Focus": [
+   4,
+   12
+  ],
+  "Ford|GT": [
+   11,
+   11
+  ],
+  "Ford|Kuga": [
+   9,
+   9
+  ],
+  "Ford|Laser": [
+   20,
+   32
+  ],
+  "Ford|Mondeo": [
+   18,
+   21
+  ],
+  "Ford|Mustang": [
+   5,
+   6
+  ],
+  "Ford|Other Model": [
+   26,
+   26
+  ],
+  "Ford|Ranger": [
+   4,
+   19
+  ],
+  "Ford|Raptor Ranger": [
+   2,
+   6
+  ],
+  "Geely|Other Model": [
+   5,
+   10
+  ],
+  "Honda|Accord": [
+   4,
+   31
+  ],
+  "Honda|Airwave": [
+   14,
+   16
+  ],
+  "Honda|CRV": [
+   4,
+   20
+  ],
+  "Honda|CRZ": [
+   8,
+   13
+  ],
+  "Honda|City": [
+   14,
+   24
+  ],
+  "Honda|Civic": [
+   4,
+   29
+  ],
+  "Honda|Crossroad": [
+   12,
+   16
+  ],
+  "Honda|Fit": [
+   7,
+   13
+  ],
+  "Honda|Fit Aria": [
+   13,
+   20
+  ],
+  "Honda|Fit She's": [
+   9,
+   11
+  ],
+  "Honda|Fit Shuttle": [
+   7,
+   11
+  ],
+  "Honda|Freed": [
+   6,
+   11
+  ],
+  "Honda|Grace": [
+   5,
+   9
+  ],
+  "Honda|HR-V": [
+   19,
+   23
+  ],
+  "Honda|Insight": [
+   9,
+   14
+  ],
+  "Honda|Integra": [
+   24,
+   30
+  ],
+  "Honda|Jade": [
+   7,
+   8
+  ],
+  "Honda|Jazz": [
+   17,
+   17
+  ],
+  "Honda|Logo": [
+   23,
+   23
+  ],
+  "Honda|N-Box": [
+   4,
+   8
+  ],
+  "Honda|N-WGN": [
+   4,
+   7
+  ],
+  "Honda|Odyssey": [
+   18,
+   23
+  ],
+  "Honda|Other Model": [
+   8,
+   27
+  ],
+  "Honda|S660": [
+   5,
+   8
+  ],
+  "Honda|Spike": [
+   10,
+   11
+  ],
+  "Honda|Vezel": [
+   4,
+   9
+  ],
+  "Hummer|H2": [
+   19,
+   20
+  ],
+  "Hummer|H3": [
+   14,
+   16
+  ],
+  "Hyundai|Accent": [
+   11,
+   23
+  ],
+  "Hyundai|Atos": [
+   18,
+   22
+  ],
+  "Hyundai|Coupe": [
+   18,
+   22
+  ],
+  "Hyundai|Elantra": [
+   11,
+   23
+  ],
+  "Hyundai|Eon": [
+   5,
+   8
+  ],
+  "Hyundai|Excel": [
+   29,
+   32
+  ],
+  "Hyundai|Getz": [
+   16,
+   21
+  ],
+  "Hyundai|Grand i10": [
+   4,
+   7
+  ],
+  "Hyundai|Ioniq": [
+   5,
+   6
+  ],
+  "Hyundai|Kona": [
+   20,
+   20
+  ],
+  "Hyundai|Matrix": [
+   18,
+   22
+  ],
+  "Hyundai|Other Model": [
+   5,
+   31
+  ],
+  "Hyundai|Santa Fe": [
+   8,
+   22
+  ],
+  "Hyundai|Santro": [
+   14,
+   22
+  ],
+  "Hyundai|Sonata": [
+   11,
+   23
+  ],
+  "Hyundai|Stellar": [
+   20,
+   20
+  ],
+  "Hyundai|Terracan": [
+   18,
+   20
+  ],
+  "Hyundai|Trajet": [
+   16,
+   23
+  ],
+  "Hyundai|Tucson": [
+   9,
+   18
+  ],
+  "Hyundai|Venue": [
+   2,
+   4
+  ],
+  "Isuzu|Bighorn": [
+   10,
+   32
+  ],
+  "Isuzu|D-Max": [
+   2,
+   26
+  ],
+  "Isuzu|Gemini": [
+   20,
+   33
+  ],
+  "Isuzu|MU-7": [
+   7,
+   7
+  ],
+  "Isuzu|MU-X": [
+   7,
+   8
+  ],
+  "Isuzu|Other Model": [
+   13,
+   32
+  ],
+  "Isuzu|Panther": [
+   24,
+   25
+  ],
+  "Isuzu|Rodeo": [
+   26,
+   31
+  ],
+  "Isuzu|Smart cab": [
+   25,
+   32
+  ],
+  "Jaguar|F-Pace": [
+   3,
+   6
+  ],
+  "Jaguar|F-Type": [
+   4,
+   6
+  ],
+  "Jaguar|S-Type": [
+   11,
+   23
+  ],
+  "Jaguar|X-Type": [
+   16,
+   21
+  ],
+  "Jaguar|XE": [
+   5,
+   5
+  ],
+  "Jaguar|XF": [
+   7,
+   11
+  ],
+  "Jaguar|XJ": [
+   12,
+   29
+  ],
+  "Jeep|Cherokee": [
+   7,
+   19
+  ],
+  "Jeep|Compass": [
+   2,
+   9
+  ],
+  "Jeep|Grand Cherokee": [
+   10,
+   19
+  ],
+  "Jeep|Other Model": [
+   7,
+   19
+  ],
+  "Jeep|Renegade": [
+   2,
+   6
+  ],
+  "Jeep|Wrangler": [
+   5,
+   22
+  ],
+  "Kia|Cadenza": [
+   24,
+   24
+  ],
+  "Kia|Carens": [
+   18,
+   22
+  ],
+  "Kia|Cerato": [
+   9,
+   19
+  ],
+  "Kia|Mentor": [
+   18,
+   23
+  ],
+  "Kia|Optima": [
+   7,
+   19
+  ],
+  "Kia|Other Model": [
+   2,
+   24
+  ],
+  "Kia|Picanto": [
+   5,
+   14
+  ],
+  "Kia|Rio": [
+   7,
+   22
+  ],
+  "Kia|Rondo": [
+   22,
+   22
+  ],
+  "Kia|Sephia": [
+   18,
+   26
+  ],
+  "Kia|Sorento": [
+   8,
+   16
+  ],
+  "Kia|Spectra": [
+   17,
+   23
+  ],
+  "Kia|Sportage": [
+   8,
+   21
+  ],
+  "Kia|Stinger": [
+   12,
+   12
+  ],
+  "Kia|Stonic": [
+   2,
+   4
+  ],
+  "Kia|soul": [
+   13,
+   13
+  ],
+  "Land Rover|Defender": [
+   5,
+   26
+  ],
+  "Land Rover|Discovery": [
+   4,
+   14
+  ],
+  "Land Rover|Discovery Sport": [
+   6,
+   8
+  ],
+  "Land Rover|Freelander": [
+   9,
+   23
+  ],
+  "Land Rover|Range Rover": [
+   3,
+   9
+  ],
+  "Land Rover|Range Rover Evoque": [
+   8,
+   10
+  ],
+  "Land Rover|Range Rover PHEV": [
+   3,
+   5
+  ],
+  "Land Rover|Range Rover Sport": [
+   3,
+   15
+  ],
+  "Land Rover|Range Rover Velar": [
+   4,
+   5
+  ],
+  "Lexus|CT-200H": [
+   10,
+   11
+  ],
+  "Lexus|HS250H": [
+   12,
+   13
+  ],
+  "Lexus|LS400": [
+   13,
+   15
+  ],
+  "Lexus|LX450": [
+   13,
+   13
+  ],
+  "Lexus|NX": [
+   5,
+   9
+  ],
+  "Lexus|NX300H": [
+   8,
+   8
+  ],
+  "Lexus|Other Model": [
+   9,
+   20
+  ],
+  "Lexus|RX350": [
+   17,
+   20
+  ],
+  "Lexus|RX400": [
+   13,
+   16
+  ],
+  "MG|ZS": [
+   3,
+   5
+  ],
+  "Mahindra|Bolero": [
+   3,
+   17
+  ],
+  "Mahindra|KUV100": [
+   0,
+   3
+  ],
+  "Mahindra|Other Model": [
+   5,
+   10
+  ],
+  "Mahindra|Quanto": [
+   8,
+   9
+  ],
+  "Mahindra|Scorpio": [
+   7,
+   20
+  ],
+  "Mahindra|Thar": [
+   15,
+   15
+  ],
+  "Mahindra|XUV500": [
+   10,
+   10
+  ],
+  "Maruti|Other Model": [
+   11,
+   25
+  ],
+  "Maruti Suzuki|800": [
+   11,
+   24
+  ],
+  "Maruti Suzuki|Alto": [
+   6,
+   17
+  ],
+  "Maruti Suzuki|Esteem": [
+   21,
+   21
+  ],
+  "Maruti Suzuki|Gypsy": [
+   29,
+   33
+  ],
+  "Maruti Suzuki|Other Model": [
+   10,
+   27
+  ],
+  "Maruti Suzuki|WagonR": [
+   5,
+   19
+  ],
+  "Maruti Suzuki|Zen": [
+   11,
+   22
+  ],
+  "Maserati|Ghibli V6": [
+   5,
+   6
+  ],
+  "Maserati|Other Model": [
+   4,
+   5
+  ],
+  "Mazda|2": [
+   7,
+   31
+  ],
+  "Mazda|2 Skyactive": [
+   6,
+   19
+  ],
+  "Mazda|3": [
+   7,
+   18
+  ],
+  "Mazda|6": [
+   6,
+   21
+  ],
+  "Mazda|Astina": [
+   31,
+   32
+  ],
+  "Mazda|Axela": [
+   7,
+   19
+  ],
+  "Mazda|BT-50": [
+   7,
+   16
+  ],
+  "Mazda|Butterfly": [
+   24,
+   28
+  ],
+  "Mazda|CX-5": [
+   8,
+   9
+  ],
+  "Mazda|Carol": [
+   6,
+   22
+  ],
+  "Mazda|Demio": [
+   13,
+   23
+  ],
+  "Mazda|Familia": [
+   19,
+   32
+  ],
+  "Mazda|Flair": [
+   4,
+   9
+  ],
+  "Mazda|MX-5": [
+   7,
+   7
+  ],
+  "Mazda|Other Model": [
+   13,
+   31
+  ],
+  "Mazda|RX": [
+   4,
+   20
+  ],
+  "Mazda|Tribute": [
+   18,
+   22
+  ],
+  "Mercedes Benz|A160": [
+   13,
+   13
+  ],
+  "Mercedes Benz|A180": [
+   4,
+   10
+  ],
+  "Mercedes Benz|A200": [
+   2,
+   4
+  ],
+  "Mercedes Benz|A45": [
+   6,
+   6
+  ],
+  "Mercedes Benz|B180": [
+   11,
+   11
+  ],
+  "Mercedes Benz|B250e": [
+   7,
+   7
+  ],
+  "Mercedes Benz|C160": [
+   4,
+   6
+  ],
+  "Mercedes Benz|C180": [
+   5,
+   28
+  ],
+  "Mercedes Benz|C200": [
+   3,
+   22
+  ],
+  "Mercedes Benz|C220": [
+   9,
+   29
+  ],
+  "Mercedes Benz|C230": [
+   16,
+   21
+  ],
+  "Mercedes Benz|C250": [
+   12,
+   12
+  ],
+  "Mercedes Benz|C300": [
+   6,
+   9
+  ],
+  "Mercedes Benz|C350": [
+   6,
+   7
+  ],
+  "Mercedes Benz|CLA 180": [
+   4,
+   7
+  ],
+  "Mercedes Benz|CLA 200": [
+   2,
+   8
+  ],
+  "Mercedes Benz|CLA45": [
+   6,
+   6
+  ],
+  "Mercedes Benz|CLK 200": [
+   22,
+   23
+  ],
+  "Mercedes Benz|CLS": [
+   3,
+   18
+  ],
+  "Mercedes Benz|E180": [
+   3,
+   4
+  ],
+  "Mercedes Benz|E200": [
+   5,
+   26
+  ],
+  "Mercedes Benz|E220": [
+   6,
+   24
+  ],
+  "Mercedes Benz|E240": [
+   18,
+   21
+  ],
+  "Mercedes Benz|E250": [
+   6,
+   25
+  ],
+  "Mercedes Benz|E300": [
+   7,
+   24
+  ],
+  "Mercedes Benz|E350": [
+   5,
+   6
+  ],
+  "Mercedes Benz|GLA 180": [
+   4,
+   6
+  ],
+  "Mercedes Benz|GLA 200": [
+   5,
+   8
+  ],
+  "Mercedes Benz|GLA 250": [
+   9,
+   9
+  ],
+  "Mercedes Benz|GLB": [
+   2,
+   13
+  ],
+  "Mercedes Benz|GLC 250": [
+   3,
+   8
+  ],
+  "Mercedes Benz|GLE 300D": [
+   2,
+   4
+  ],
+  "Mercedes Benz|GLE 400": [
+   5,
+   7
+  ],
+  "Mercedes Benz|GLE 500": [
+   6,
+   6
+  ],
+  "Mercedes Benz|ML350": [
+   9,
+   13
+  ],
+  "Mercedes Benz|Other Model": [
+   4,
+   26
+  ],
+  "Mercedes Benz|S280": [
+   19,
+   19
+  ],
+  "Mercedes Benz|S300": [
+   5,
+   13
+  ],
+  "Mercedes Benz|S320": [
+   19,
+   30
+  ],
+  "Mercedes Benz|S350": [
+   13,
+   19
+  ],
+  "Mercedes Benz|S400": [
+   7,
+   10
+  ],
+  "Mercedes Benz|S500": [
+   4,
+   20
+  ],
+  "Mercedes Benz|SLC 180": [
+   5,
+   5
+  ],
+  "Mercedes Benz|SLK 200": [
+   8,
+   25
+  ],
+  "Mercedes Benz|X250d": [
+   3,
+   4
+  ],
+  "Micro|Actyon": [
+   11,
+   15
+  ],
+  "Micro|BAIC": [
+   3,
+   6
+  ],
+  "Micro|D20 HACH": [
+   5,
+   5
+  ],
+  "Micro|Emgrand": [
+   6,
+   9
+  ],
+  "Micro|Geely": [
+   6,
+   14
+  ],
+  "Micro|Junior": [
+   7,
+   16
+  ],
+  "Micro|Korondo": [
+   9,
+   11
+  ],
+  "Micro|Kyron": [
+   10,
+   15
+  ],
+  "Micro|Lifan": [
+   13,
+   15
+  ],
+  "Micro|MX 7": [
+   7,
+   13
+  ],
+  "Micro|Other Model": [
+   0,
+   16
+  ],
+  "Micro|Panda": [
+   5,
+   11
+  ],
+  "Micro|Panda Cross": [
+   4,
+   11
+  ],
+  "Micro|Privilage": [
+   17,
+   17
+  ],
+  "Micro|Rexton": [
+   6,
+   16
+  ],
+  "Micro|Rhino": [
+   8,
+   13
+  ],
+  "Micro|Tivoli": [
+   5,
+   8
+  ],
+  "Micro|Trend": [
+   9,
+   17
+  ],
+  "Micro|Voleex": [
+   9,
+   10
+  ],
+  "Micro|X25": [
+   4,
+   6
+  ],
+  "Mini|Cooper": [
+   6,
+   28
+  ],
+  "Mini|Countryman": [
+   6,
+   9
+  ],
+  "Mini|Other Model": [
+   8,
+   26
+  ],
+  "Mitsubishi|4DR": [
+   11,
+   32
+  ],
+  "Mitsubishi|ASX": [
+   8,
+   9
+  ],
+  "Mitsubishi|Attrage": [
+   2,
+   9
+  ],
+  "Mitsubishi|Cedia": [
+   21,
+   29
+  ],
+  "Mitsubishi|Chariot": [
+   22,
+   22
+  ],
+  "Mitsubishi|Colt": [
+   15,
+   19
+  ],
+  "Mitsubishi|Delica": [
+   26,
+   31
+  ],
+  "Mitsubishi|EK Custom": [
+   7,
+   8
+  ],
+  "Mitsubishi|Eclipse Cross": [
+   2,
+   5
+  ],
+  "Mitsubishi|Galant": [
+   16,
+   32
+  ],
+  "Mitsubishi|Jonway": [
+   10,
+   10
+  ],
+  "Mitsubishi|L200": [
+   3,
+   31
+  ],
+  "Mitsubishi|Lancer": [
+   11,
+   31
+  ],
+  "Mitsubishi|Libero": [
+   22,
+   28
+  ],
+  "Mitsubishi|Mirage": [
+   9,
+   31
+  ],
+  "Mitsubishi|Montero": [
+   7,
+   23
+  ],
+  "Mitsubishi|Other Model": [
+   9,
+   28
+  ],
+  "Mitsubishi|Outlander": [
+   6,
+   13
+  ],
+  "Mitsubishi|Pajero": [
+   11,
+   31
+  ],
+  "Mitsubishi|RVR": [
+   20,
+   27
+  ],
+  "Mitsubishi|Raider": [
+   9,
+   9
+  ],
+  "Mitsubishi|Shogun": [
+   10,
+   15
+  ],
+  "Mitsubishi|Sportero": [
+   2,
+   6
+  ],
+  "Mitsubishi|Strada": [
+   29,
+   31
+  ],
+  "Mitsubishi|Towny": [
+   23,
+   33
+  ],
+  "Mitsubishi|Xpander": [
+   2,
+   5
+  ],
+  "Mitsubishi|eK Space": [
+   6,
+   7
+  ],
+  "Mitsubishi|eK Wagon": [
+   3,
+   6
+  ],
+  "Morris|Mini": [
+   25,
+   28
+  ],
+  "Morris|Minor": [
+   0,
+   0
+  ],
+  "Nissan|AD Wagon": [
+   18,
+   31
+  ],
+  "Nissan|Almera": [
+   21,
+   28
+  ],
+  "Nissan|Aventura": [
+   14,
+   17
+  ],
+  "Nissan|Bluebird": [
+   13,
+   30
+  ],
+  "Nissan|Cefiro": [
+   16,
+   24
+  ],
+  "Nissan|Dayz": [
+   4,
+   8
+  ],
+  "Nissan|Dualis": [
+   31,
+   31
+  ],
+  "Nissan|Dutsun": [
+   0,
+   31
+  ],
+  "Nissan|Fairlady Z": [
+   19,
+   19
+  ],
+  "Nissan|Gloria": [
+   18,
+   28
+  ],
+  "Nissan|Juke": [
+   2,
+   13
+  ],
+  "Nissan|Leaf": [
+   7,
+   10
+  ],
+  "Nissan|MOCO": [
+   5,
+   16
+  ],
+  "Nissan|March": [
+   13,
+   28
+  ],
+  "Nissan|Micra": [
+   20,
+   29
+  ],
+  "Nissan|Navara": [
+   10,
+   17
+  ],
+  "Nissan|Note": [
+   7,
+   16
+  ],
+  "Nissan|Other Model": [
+   10,
+   31
+  ],
+  "Nissan|Pathfinder": [
+   27,
+   30
+  ],
+  "Nissan|Patrol": [
+   6,
+   31
+  ],
+  "Nissan|Presea": [
+   20,
+   31
+  ],
+  "Nissan|Primera": [
+   17,
+   27
+  ],
+  "Nissan|Pulsar": [
+   20,
+   31
+  ],
+  "Nissan|Qashqai": [
+   4,
+   6
+  ],
+  "Nissan|Serena": [
+   21,
+   31
+  ],
+  "Nissan|Skyline": [
+   17,
+   22
+  ],
+  "Nissan|Sunny": [
+   16,
+   32
+  ],
+  "Nissan|Sylphy": [
+   17,
+   23
+  ],
+  "Nissan|Teana": [
+   7,
+   20
+  ],
+  "Nissan|Terrano": [
+   17,
+   29
+  ],
+  "Nissan|Tiida": [
+   14,
+   19
+  ],
+  "Nissan|Wingroad": [
+   15,
+   26
+  ],
+  "Nissan|X-Trail": [
+   6,
+   22
+  ],
+  "Nissan|e-NV200": [
+   7,
+   10
+  ],
+  "Opel|Astra": [
+   20,
+   28
+  ],
+  "Opel|Crossland": [
+   25,
+   25
+  ],
+  "Opel|Omega": [
+   25,
+   26
+  ],
+  "Opel|Other Model": [
+   25,
+   25
+  ],
+  "Opel|Vectra": [
+   24,
+   26
+  ],
+  "Other brand|Other model": [
+   1,
+   16
+  ],
+  "Perodua|Axia": [
+   5,
+   8
+  ],
+  "Perodua|Bezza": [
+   2,
+   6
+  ],
+  "Perodua|Kancil": [
+   21,
+   23
+  ],
+  "Perodua|Kelisa": [
+   15,
+   20
+  ],
+  "Perodua|Kembara": [
+   20,
+   23
+  ],
+  "Perodua|Kenari": [
+   14,
+   16
+  ],
+  "Perodua|Viva Elite": [
+   9,
+   13
+  ],
+  "Peugeot|2008": [
+   5,
+   9
+  ],
+  "Peugeot|206": [
+   16,
+   23
+  ],
+  "Peugeot|208": [
+   8,
+   9
+  ],
+  "Peugeot|3008": [
+   3,
+   5
+  ],
+  "Peugeot|305": [
+   26,
+   26
+  ],
+  "Peugeot|307": [
+   14,
+   22
+  ],
+  "Peugeot|308": [
+   11,
+   20
+  ],
+  "Peugeot|405": [
+   27,
+   31
+  ],
+  "Peugeot|406": [
+   21,
+   25
+  ],
+  "Peugeot|407": [
+   14,
+   18
+  ],
+  "Peugeot|408": [
+   8,
+   9
+  ],
+  "Peugeot|5008": [
+   3,
+   6
+  ],
+  "Peugeot|505": [
+   3,
+   3
+  ],
+  "Peugeot|508": [
+   6,
+   10
+  ],
+  "Peugeot|607": [
+   15,
+   24
+  ],
+  "Peugeot|Other Model": [
+   11,
+   25
+  ],
+  "Porsche|718 Boxter": [
+   5,
+   6
+  ],
+  "Porsche|718 Cayman": [
+   5,
+   7
+  ],
+  "Porsche|Cayenne": [
+   10,
+   12
+  ],
+  "Porsche|Macan": [
+   5,
+   8
+  ],
+  "Porsche|Panamera": [
+   10,
+   10
+  ],
+  "Proton|Exora": [
+   13,
+   13
+  ],
+  "Proton|Gen-2": [
+   16,
+   19
+  ],
+  "Proton|Persona": [
+   11,
+   14
+  ],
+  "Proton|Saga": [
+   10,
+   31
+  ],
+  "Proton|Savvy": [
+   18,
+   18
+  ],
+  "Proton|Waja": [
+   18,
+   22
+  ],
+  "Proton|Wira": [
+   14,
+   29
+  ],
+  "Renault|KWID": [
+   4,
+   7
+  ],
+  "Renault|Other Model": [
+   3,
+   26
+  ],
+  "Rover|Other Model": [
+   23,
+   23
+  ],
+  "Skoda|Fabia": [
+   1,
+   1
+  ],
+  "Skoda|Karoq": [
+   4,
+   4
+  ],
+  "Skoda|Octavia": [
+   21,
+   21
+  ],
+  "Smart|Fortwo": [
+   10,
+   10
+  ],
+  "Smart|Other Model": [
+   32,
+   32
+  ],
+  "Ssang Yong|Actyon": [
+   5,
+   15
+  ],
+  "Ssang Yong|Korando": [
+   8,
+   11
+  ],
+  "Ssang Yong|Kyron": [
+   10,
+   16
+  ],
+  "Ssang Yong|Musso": [
+   15,
+   27
+  ],
+  "Ssang Yong|Rexton": [
+   7,
+   15
+  ],
+  "Ssang Yong|Rodius": [
+   8,
+   9
+  ],
+  "Ssang Yong|Tivoli": [
+   4,
+   8
+  ],
+  "Subaru|BRZ": [
+   6,
+   6
+  ],
+  "Subaru|Forester": [
+   8,
+   24
+  ],
+  "Subaru|Impreza": [
+   7,
+   29
+  ],
+  "Subaru|Legacy": [
+   15,
+   31
+  ],
+  "Subaru|Other Model": [
+   9,
+   31
+  ],
+  "Subaru|R2": [
+   11,
+   30
+  ],
+  "Subaru|STI": [
+   8,
+   26
+  ],
+  "Subaru|WRX": [
+   6,
+   23
+  ],
+  "Subaru|XV": [
+   7,
+   10
+  ],
+  "Suzuki|A-Star": [
+   10,
+   13
+  ],
+  "Suzuki|Alto": [
+   5,
+   19
+  ],
+  "Suzuki|Baleno": [
+   3,
+   12
+  ],
+  "Suzuki|Celerio": [
+   5,
+   9
+  ],
+  "Suzuki|Ciaz": [
+   7,
+   7
+  ],
+  "Suzuki|Cultus": [
+   20,
+   29
+  ],
+  "Suzuki|Dzire": [
+   10,
+   12
+  ],
+  "Suzuki|Ertiga": [
+   6,
+   10
+  ],
+  "Suzuki|Escudo": [
+   14,
+   27
+  ],
+  "Suzuki|Esteem": [
+   15,
+   24
+  ],
+  "Suzuki|Estilo": [
+   10,
+   14
+  ],
+  "Suzuki|Grand Vitara": [
+   9,
+   23
+  ],
+  "Suzuki|Hustler": [
+   4,
+   8
+  ],
+  "Suzuki|Ignis": [
+   5,
+   21
+  ],
+  "Suzuki|Jimny": [
+   3,
+   25
+  ],
+  "Suzuki|Liana": [
+   16,
+   21
+  ],
+  "Suzuki|Maruti": [
+   10,
+   25
+  ],
+  "Suzuki|Other Model": [
+   4,
+   32
+  ],
+  "Suzuki|S-Cross": [
+   4,
+   6
+  ],
+  "Suzuki|SX4": [
+   10,
+   16
+  ],
+  "Suzuki|Solio": [
+   7,
+   7
+  ],
+  "Suzuki|Spacia": [
+   4,
+   8
+  ],
+  "Suzuki|Splash": [
+   6,
+   6
+  ],
+  "Suzuki|Swift": [
+   5,
+   20
+  ],
+  "Suzuki|Vitara": [
+   3,
+   30
+  ],
+  "Suzuki|Wagon R": [
+   4,
+   18
+  ],
+  "Suzuki|Wagon R FX": [
+   4,
+   7
+  ],
+  "Suzuki|Wagon R FZ": [
+   4,
+   9
+  ],
+  "Suzuki|Wagon R Stingray": [
+   4,
+   9
+  ],
+  "Suzuki|XBee": [
+   4,
+   6
+  ],
+  "Suzuki|Zen": [
+   12,
+   24
+  ],
+  "Tata|GenX Nano": [
+   5,
+   12
+  ],
+  "Tata|Indica": [
+   7,
+   19
+  ],
+  "Tata|Indigo": [
+   7,
+   18
+  ],
+  "Tata|Nano": [
+   5,
+   12
+  ],
+  "Tata|Nexon": [
+   4,
+   11
+  ],
+  "Tata|Other Model": [
+   4,
+   27
+  ],
+  "Tata|Safari": [
+   11,
+   21
+  ],
+  "Tata|Sumo": [
+   14,
+   20
+  ],
+  "Tata|Telcolin": [
+   11,
+   23
+  ],
+  "Tata|Vista": [
+   8,
+   13
+  ],
+  "Tata|Xenon": [
+   6,
+   12
+  ],
+  "Toyota|4Runner": [
+   9,
+   28
+  ],
+  "Toyota|Allion": [
+   6,
+   20
+  ],
+  "Toyota|Alphard": [
+   9,
+   16
+  ],
+  "Toyota|Aqua": [
+   7,
+   11
+  ],
+  "Toyota|Auris": [
+   16,
+   16
+  ],
+  "Toyota|Avalon": [
+   7,
+   21
+  ],
+  "Toyota|Avanza": [
+   6,
+   16
+  ],
+  "Toyota|Avensis": [
+   9,
+   12
+  ],
+  "Toyota|Axio": [
+   5,
+   16
+  ],
+  "Toyota|Belta": [
+   12,
+   16
+  ],
+  "Toyota|Brebis": [
+   15,
+   15
+  ],
+  "Toyota|CHR": [
+   2,
+   6
+  ],
+  "Toyota|Caldina": [
+   25,
+   27
+  ],
+  "Toyota|Cami": [
+   20,
+   24
+  ],
+  "Toyota|Camry": [
+   10,
+   32
+  ],
+  "Toyota|Carina": [
+   15,
+   32
+  ],
+  "Toyota|Celica": [
+   22,
+   22
+  ],
+  "Toyota|Ceres": [
+   26,
+   29
+  ],
+  "Toyota|Corolla": [
+   14,
+   32
+  ],
+  "Toyota|Corona": [
+   23,
+   33
+  ],
+  "Toyota|Corsa": [
+   23,
+   32
+  ],
+  "Toyota|Crown": [
+   9,
+   33
+  ],
+  "Toyota|Cynos": [
+   24,
+   31
+  ],
+  "Toyota|Duet": [
+   20,
+   24
+  ],
+  "Toyota|Esquire": [
+   7,
+   9
+  ],
+  "Toyota|Etios": [
+   9,
+   9
+  ],
+  "Toyota|FJ Cruiser": [
+   8,
+   9
+  ],
+  "Toyota|Fielder": [
+   7,
+   12
+  ],
+  "Toyota|Fortuner": [
+   8,
+   15
+  ],
+  "Toyota|GT86": [
+   9,
+   9
+  ],
+  "Toyota|Harrier": [
+   5,
+   24
+  ],
+  "Toyota|Hilux": [
+   4,
+   31
+  ],
+  "Toyota|IST": [
+   14,
+   20
+  ],
+  "Toyota|Land Cruiser Prado": [
+   5,
+   26
+  ],
+  "Toyota|Land Cruiser Sahara": [
+   5,
+   25
+  ],
+  "Toyota|MR-S": [
+   22,
+   22
+  ],
+  "Toyota|Marino": [
+   24,
+   30
+  ],
+  "Toyota|Mark": [
+   15,
+   28
+  ],
+  "Toyota|Other Model": [
+   3,
+   32
+  ],
+  "Toyota|Passo": [
+   4,
+   19
+  ],
+  "Toyota|Pixis": [
+   4,
+   7
+  ],
+  "Toyota|Platz": [
+   18,
+   24
+  ],
+  "Toyota|Premio": [
+   4,
+   16
+  ],
+  "Toyota|Prius": [
+   7,
+   15
+  ],
+  "Toyota|RAV4": [
+   10,
+   26
+  ],
+  "Toyota|Ractis": [
+   15,
+   15
+  ],
+  "Toyota|Raize": [
+   2,
+   4
+  ],
+  "Toyota|Roomy": [
+   4,
+   6
+  ],
+  "Toyota|Rush": [
+   3,
+   17
+  ],
+  "Toyota|SAI": [
+   9,
+   13
+  ],
+  "Toyota|Sienta": [
+   5,
+   28
+  ],
+  "Toyota|Soluna": [
+   17,
+   23
+  ],
+  "Toyota|Sprinter": [
+   23,
+   32
+  ],
+  "Toyota|Starlet": [
+   24,
+   31
+  ],
+  "Toyota|Tank": [
+   3,
+   6
+  ],
+  "Toyota|Tercel": [
+   23,
+   30
+  ],
+  "Toyota|Vanguard": [
+   9,
+   16
+  ],
+  "Toyota|Vellfire": [
+   11,
+   13
+  ],
+  "Toyota|Verossa": [
+   21,
+   22
+  ],
+  "Toyota|Vios": [
+   12,
+   20
+  ],
+  "Toyota|Vitz": [
+   4,
+   16
+  ],
+  "Toyota|Voxy": [
+   7,
+   9
+  ],
+  "Toyota|Wigo": [
+   4,
+   6
+  ],
+  "Toyota|Yaris": [
+   10,
+   16
+  ],
+  "Volkswagen|Beetle": [
+   5,
+   22
+  ],
+  "Volkswagen|Bora": [
+   22,
+   22
+  ],
+  "Volkswagen|Golf": [
+   16,
+   16
+  ],
+  "Volkswagen|Jetta": [
+   6,
+   15
+  ],
+  "Volkswagen|Other Model": [
+   10,
+   16
+  ],
+  "Volkswagen|Passat": [
+   10,
+   24
+  ],
+  "Volkswagen|Polo": [
+   3,
+   24
+  ],
+  "Volkswagen|T-Cross": [
+   2,
+   3
+  ],
+  "Volkswagen|Tiguan": [
+   9,
+   10
+  ],
+  "Volvo|850": [
+   25,
+   25
+  ],
+  "Volvo|940": [
+   26,
+   28
+  ],
+  "Volvo|Other Model": [
+   12,
+   28
+  ],
+  "Volvo|S40": [
+   15,
+   24
+  ],
+  "Volvo|S60": [
+   5,
+   21
+  ],
+  "Volvo|S80": [
+   10,
+   24
+  ],
+  "Volvo|S90": [
+   26,
+   26
+  ],
+  "Volvo|XC40": [
+   4,
+   4
+  ],
+  "Volvo|XC90": [
+   3,
+   7
+  ],
+  "Zotye|Extreme": [
+   6,
+   11
+  ],
+  "Zotye|Nomad": [
+   9,
+   15
+  ],
+  "Zotye|Other Model": [
+   1,
+   1
+  ],
+  "Zotye|Z100": [
+   1,
+   7
+  ]
+ }
 }
